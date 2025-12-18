@@ -1,0 +1,5 @@
+{
+  "name": "Gemini RAG News Hub",
+  "description": "A sophisticated Retrieval-Augmented Generation (RAG) platform for news analytics. It features an automated ingestion engine, vector-based semantic search, and a high-performance chat interface powered by Gemini 3 Flash, with real-time analytics for monitoring LLM interactions.",
+  "requestFramePermissions": []
+}
